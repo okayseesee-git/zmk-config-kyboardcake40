@@ -1,0 +1,6 @@
+if KYCAKE
+  
+config ZMK_KEYBOARD_NAME
+    default "kycake"
+
+endif
