@@ -1,0 +1,4 @@
+if SHIELD_KYCAKE
+  config ZMK_KEYBOARD_NAME
+    default "KyCake"
+endif
