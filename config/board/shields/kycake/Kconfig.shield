@@ -1,2 +1,2 @@
 config SHIELD_KYCAKE
-  def_bool $(shields_list_contains, KyCake)
+  def_bool $(shields_list_contains,kycake)
