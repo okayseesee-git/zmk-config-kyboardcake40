@@ -20,3 +20,5 @@
 include:
   - board: nice_nano_v2
     shield: kycake
+  - board: nice_nano_v2
+    shield: settings_reset
