@@ -1,7 +1,7 @@
 
 file_format: "1"
-id: kycake
-name: kycake
+id: kyboard36
+name: kyboard36
 type: shield
 requires: [nice_nano_v2]
 features:
