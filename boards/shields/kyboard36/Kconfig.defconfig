@@ -1,0 +1,6 @@
+if SHIELD_KYBOARD36
+  
+config ZMK_KEYBOARD_NAME
+    default "kyboard36"
+
+endif
